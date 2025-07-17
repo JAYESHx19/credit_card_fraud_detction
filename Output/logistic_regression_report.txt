@@ -1,0 +1,11 @@
+---- Logistic Regression ----
+              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00     85295
+           1       0.86      0.61      0.72       148
+
+    accuracy                           1.00     85443
+   macro avg       0.93      0.81      0.86     85443
+weighted avg       1.00      1.00      1.00     85443
+
+ROC AUC Score: 0.9564924118678735

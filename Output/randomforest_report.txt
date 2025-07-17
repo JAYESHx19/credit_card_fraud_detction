@@ -1,0 +1,11 @@
+---- Random Forest ----
+              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00     85295
+           1       0.96      0.76      0.85       148
+
+    accuracy                           1.00     85443
+   macro avg       0.98      0.88      0.92     85443
+weighted avg       1.00      1.00      1.00     85443
+
+ROC AUC Score: 0.9340846870083637
