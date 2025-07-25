@@ -27,11 +27,6 @@ Build a classification model to detect fraudulent credit card transactions using
 
 ---
 
-## 📊 **Results**
-Add your evaluation results, confusion matrix heatmaps, and plots here after running the notebook.
-
----
-
 ## 💡 **Usage**
 1. Clone this repository
 2. Install required libraries:
